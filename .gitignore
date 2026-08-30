@@ -161,3 +161,8 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+# local data files (large, downloaded not authored)
+data/
+
+# editor settings
+.vscode/
